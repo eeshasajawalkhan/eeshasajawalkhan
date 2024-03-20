@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @eeshasajawalkhan
-- 👀 Web Developing and Php Programming
-- 🌱 I am currently doing Android Development
-- 💞️ I am a freelancer and Looking for work
-- 📫 If anyone Interested Contact me
-- I have been working as a freelancer from Three years
+It's Eesha Khan, a Full Stack PHP Web and WordPress Developer. I have 5+ years in Programming and Developing robust web solutions. I am Highly Proficient in building Web User Interface (UI) using HTML 4/ HTML 5, JavaScript, jQuery, PHP, JSP, Bootstrap, JSON, SOAP, SCSS, and Rest API's. I have ability to work on developed common frameworks like (Core, CodeIgniter, Laravel), AWS and consult on UX related projects and can code in logical dynamic language. I am highly passionate in writing complex relational database schema. My expertise extends to various domains, including loan management, ERP system, financial modules, content management, API- based applications, MLM systems, LMS system, Portfolios and Business Consulting Websites. One of my key strengths lies in integrating advanced protocol interfaces (APIs) to create seamless connections between different systems. I can develops high-performing websites and web applications, handling both back-end complexities and front-end interfaces with ease.
+Information Technology Administrator at Pied Piper Group
+Also Working as a FreeLancer, Available at Fiver and Upwork
